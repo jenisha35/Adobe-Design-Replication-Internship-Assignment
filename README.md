@@ -5,7 +5,7 @@ This project is a **pixel-perfect React implementation** of a provided Adobe XD 
 ---
 
 ## 🔗 Live Demo
-[👉 View Project Demo]([https://your-deployed-link.com](https://internship-project-k3ia9w29f-jenishas-projects-ffa545b4.vercel.app/ ))
+[👉 View Project Demo](https://internship-project-k3ia9w29f-jenishas-projects-ffa545b4.vercel.app/)
 
 ---
 
