@@ -1,17 +1,53 @@
-<<<<<<< HEAD
-# React + Vite
+# 🎯 Adobe Design Replication – Internship Assignment
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+This project is a **pixel-perfect React implementation** of a provided Adobe XD design. It was built as part of an internship selection task, focusing on accuracy, responsiveness, and clean component structure using **React** and **Tailwind CSS**.
 
-Currently, two official plugins are available:
+---
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🔗 Live Demo
+[👉 View Project Demo](https://your-deployed-link.com)
 
-## Expanding the ESLint configuration
+---
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
-# Adobe-Design-Replication-Internship-Assignment
-Submitted as part of an internship screening task. This React project replicates the given Adobe design as accurately as possible within the given timeframe.
->>>>>>> 3a25a5002b7b104d730852167d71847b11ac1629
+## ⚙️ Tech Stack
+
+- ⚛️ React  
+- 💨 Tailwind CSS  
+- 🔃 React Router
+- 📱Toaster
+
+---
+
+## 📱 Responsive Design
+
+The layout is responsive and adapts to common screen sizes. Tailwind utility classes were used for layout, spacing, and alignment.
+
+---
+
+## 📌 Notes
+
+- The project strictly follows the Adobe design provided.
+- No additional animations or effects were added to ensure full design fidelity.
+- Can be extended with enhancements like transitions, dark mode, or accessibility features if required.
+
+---
+
+## 🙋‍♀️ About Me
+
+**Jenisha S**  
+🔗 [LinkedIn](https://www.linkedin.com/in/jenisha-s-486b22335/)  
+🐙 [GitHub](https://github.com/jenisha35)
+
+---
+
+## 📬 Contact
+
+Feel free to reach out if you’d like to discuss this project or future opportunities:  
+📧 jenisha.9530@gmail.com
+
+---
+
+> Thank you for the opportunity. Looking forward to your feedback!
+
+
+
